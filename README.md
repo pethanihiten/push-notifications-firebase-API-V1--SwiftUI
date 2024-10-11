@@ -15,9 +15,11 @@ This update is specific to iOS aside from uploading the JSON to the brand’s ap
 5. Click on the Generate New Private Key button to download the JSON. Store this json securely since it will be used in the next few steps
 
 <img width="1468" alt="GenerateServiceAccountJson" src="https://github.com/user-attachments/assets/c43cdcd1-0074-41ac-8c87-cbd84834fd88">
+ 
 
 Start Xcode, add the GoogleService-Info.plist file to the project, and launch the app.
 Go to the Import tab and click the plus button in the top right corner to import the downloaded JSON file.
+
 
 ![Simulator Screenshot - iPhone 15 - 2024-10-11 at 17 47 04](https://github.com/user-attachments/assets/9dcb65a5-5aa2-41a1-ad35-4e9c927c87e3)
 
