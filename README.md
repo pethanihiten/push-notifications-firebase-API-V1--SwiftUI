@@ -1,4 +1,4 @@
-# push-notifications-firebase-API-V1--SwiftUI
+# push-notifications-firebase-API-V1-SwiftUI
 
 SwiftUI implementation of Push Notifications with Firebase (Google Cloud Messaging) API V1 without Server
 
@@ -7,7 +7,7 @@ All apps currently utilizing the Legacy FCM APIs must transition to the new FCM 
 Brands must generate a service account from their Firebase console and update it in the Conversational Cloud UI.
 This update is specific to iOS aside from uploading the JSON to the brand’s app, no other code changes are required to begin using the new FCM V1.
 
-This page covers the steps to:
+# This page covers the steps to:
 1. Create a “Service Account” in the Firebase Console
 2. Provide the Service Account information in the Conversational Cloud UI
 3. In order to download the service account from the Firebase Console, you would need to follow these steps:
